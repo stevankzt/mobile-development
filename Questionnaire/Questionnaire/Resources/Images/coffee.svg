@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- пар -->
+  <path d="M92 40c-10 14 10 22 0 38M128 30c-10 16 10 26 0 46M164 40c-10 14 10 22 0 38"
+        fill="none" stroke="#C8A27A" stroke-width="8" stroke-linecap="round"/>
+  <!-- блюдце -->
+  <ellipse cx="128" cy="214" rx="96" ry="16" fill="#6B3E26"/>
+  <!-- чашка -->
+  <path d="M52 96h152v52c0 40-32 62-76 62s-76-22-76-62z" fill="#8B4513"/>
+  <!-- ручка -->
+  <path d="M204 112h12a26 26 0 0 1 0 52h-18" fill="none" stroke="#8B4513" stroke-width="14"/>
+  <!-- кофе -->
+  <ellipse cx="128" cy="96" rx="76" ry="12" fill="#3B2314"/>
+</svg>
